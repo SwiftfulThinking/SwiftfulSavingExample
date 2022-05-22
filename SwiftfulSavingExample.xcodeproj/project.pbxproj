@@ -11,6 +11,21 @@
 		027FB5242820C80B009D7FE8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027FB5232820C80B009D7FE8 /* ContentView.swift */; };
 		027FB5262820C80E009D7FE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 027FB5252820C80E009D7FE8 /* Assets.xcassets */; };
 		027FB5292820C80E009D7FE8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 027FB5282820C80E009D7FE8 /* Preview Assets.xcassets */; };
+		027FB5312820CAFA009D7FE8 /* SwiftfulSaving in Frameworks */ = {isa = PBXBuildFile; productRef = 027FB5302820CAFA009D7FE8 /* SwiftfulSaving */; };
+		027FB53F2820D73E009D7FE8 /* Birds-chirping-sound-effect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 027FB53E2820D73E009D7FE8 /* Birds-chirping-sound-effect.mp3 */; };
+		027FB5462820DB9A009D7FE8 /* stringsvideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 027FB5452820DB9A009D7FE8 /* stringsvideo.mp4 */; };
+		029419342826CF6C000F6B7E /* CDItemContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 029419322826CF6C000F6B7E /* CDItemContainer.xcdatamodeld */; };
+		02941936282CA72F000F6B7E /* CDExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02941935282CA72F000F6B7E /* CDExampleView.swift */; };
+		02941938282CA739000F6B7E /* CDItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02941937282CA739000F6B7E /* CDItem.swift */; };
+		0294193A282CAEC3000F6B7E /* CDServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02941939282CAEC3000F6B7E /* CDServices.swift */; };
+		0294193C282CAEF4000F6B7E /* FMServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0294193B282CAEF4000F6B7E /* FMServices.swift */; };
+		0294193E282CAF38000F6B7E /* FMImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0294193D282CAF38000F6B7E /* FMImageView.swift */; };
+		02AFA5E2283AD0A200763DB1 /* FMCodableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5E1283AD0A200763DB1 /* FMCodableView.swift */; };
+		02AFA5E4283AD2D900763DB1 /* FMMP3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5E3283AD2D900763DB1 /* FMMP3View.swift */; };
+		02AFA5E6283AD6EE00763DB1 /* FMMP4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5E5283AD6EE00763DB1 /* FMMP4View.swift */; };
+		02AFA5EA283AD82700763DB1 /* UDExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5E9283AD82700763DB1 /* UDExampleView.swift */; };
+		02AFA5ED283AD84000763DB1 /* UDServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5EC283AD84000763DB1 /* UDServices.swift */; };
+		02AFA5EF283ADAF800763DB1 /* FMImageStreamableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AFA5EE283ADAF800763DB1 /* FMImageStreamableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,20 @@
 		027FB5232820C80B009D7FE8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		027FB5252820C80E009D7FE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		027FB5282820C80E009D7FE8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		027FB53E2820D73E009D7FE8 /* Birds-chirping-sound-effect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Birds-chirping-sound-effect.mp3"; sourceTree = "<group>"; };
+		027FB5452820DB9A009D7FE8 /* stringsvideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = stringsvideo.mp4; sourceTree = "<group>"; };
+		029419332826CF6C000F6B7E /* CDItemContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CDItemContainer.xcdatamodel; sourceTree = "<group>"; };
+		02941935282CA72F000F6B7E /* CDExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDExampleView.swift; sourceTree = "<group>"; };
+		02941937282CA739000F6B7E /* CDItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDItem.swift; sourceTree = "<group>"; };
+		02941939282CAEC3000F6B7E /* CDServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDServices.swift; sourceTree = "<group>"; };
+		0294193B282CAEF4000F6B7E /* FMServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMServices.swift; sourceTree = "<group>"; };
+		0294193D282CAF38000F6B7E /* FMImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMImageView.swift; sourceTree = "<group>"; };
+		02AFA5E1283AD0A200763DB1 /* FMCodableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMCodableView.swift; sourceTree = "<group>"; };
+		02AFA5E3283AD2D900763DB1 /* FMMP3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMMP3View.swift; sourceTree = "<group>"; };
+		02AFA5E5283AD6EE00763DB1 /* FMMP4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMMP4View.swift; sourceTree = "<group>"; };
+		02AFA5E9283AD82700763DB1 /* UDExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDExampleView.swift; sourceTree = "<group>"; };
+		02AFA5EC283AD84000763DB1 /* UDServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDServices.swift; sourceTree = "<group>"; };
+		02AFA5EE283ADAF800763DB1 /* FMImageStreamableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FMImageStreamableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027FB5312820CAFA009D7FE8 /* SwiftfulSaving in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,7 +83,10 @@
 			children = (
 				027FB5212820C80B009D7FE8 /* SwiftfulSavingExampleApp.swift */,
 				027FB5232820C80B009D7FE8 /* ContentView.swift */,
-				027FB5252820C80E009D7FE8 /* Assets.xcassets */,
+				02AFA5E7283AD7EA00763DB1 /* UserDefaults */,
+				0294192D2826C85D000F6B7E /* CoreData */,
+				027FB5362820D25C009D7FE8 /* FileManager */,
+				027FB5422820D936009D7FE8 /* Resources */,
 				027FB5272820C80E009D7FE8 /* Preview Content */,
 			);
 			path = SwiftfulSavingExample;
@@ -65,6 +98,105 @@
 				027FB5282820C80E009D7FE8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		027FB5362820D25C009D7FE8 /* FileManager */ = {
+			isa = PBXGroup;
+			children = (
+				02AFA5E0283AD01900763DB1 /* Services */,
+				02AFA5DF283AD01300763DB1 /* Views */,
+			);
+			path = FileManager;
+			sourceTree = "<group>";
+		};
+		027FB5422820D936009D7FE8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				027FB5252820C80E009D7FE8 /* Assets.xcassets */,
+				027FB53E2820D73E009D7FE8 /* Birds-chirping-sound-effect.mp3 */,
+				027FB5452820DB9A009D7FE8 /* stringsvideo.mp4 */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0294192D2826C85D000F6B7E /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				02AFA5DE283AD00300763DB1 /* Models */,
+				02AFA5DD283ACFFC00763DB1 /* Services */,
+				02AFA5DB283ACFDC00763DB1 /* Views */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		02AFA5DB283ACFDC00763DB1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				02941935282CA72F000F6B7E /* CDExampleView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		02AFA5DD283ACFFC00763DB1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				02941939282CAEC3000F6B7E /* CDServices.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		02AFA5DE283AD00300763DB1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				02941937282CA739000F6B7E /* CDItem.swift */,
+				029419322826CF6C000F6B7E /* CDItemContainer.xcdatamodeld */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		02AFA5DF283AD01300763DB1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0294193D282CAF38000F6B7E /* FMImageView.swift */,
+				02AFA5EE283ADAF800763DB1 /* FMImageStreamableView.swift */,
+				02AFA5E1283AD0A200763DB1 /* FMCodableView.swift */,
+				02AFA5E3283AD2D900763DB1 /* FMMP3View.swift */,
+				02AFA5E5283AD6EE00763DB1 /* FMMP4View.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		02AFA5E0283AD01900763DB1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				0294193B282CAEF4000F6B7E /* FMServices.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		02AFA5E7283AD7EA00763DB1 /* UserDefaults */ = {
+			isa = PBXGroup;
+			children = (
+				02AFA5EB283AD82F00763DB1 /* Services */,
+				02AFA5E8283AD7F500763DB1 /* Views */,
+			);
+			path = UserDefaults;
+			sourceTree = "<group>";
+		};
+		02AFA5E8283AD7F500763DB1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				02AFA5E9283AD82700763DB1 /* UDExampleView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		02AFA5EB283AD82F00763DB1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				02AFA5EC283AD84000763DB1 /* UDServices.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +215,9 @@
 			dependencies = (
 			);
 			name = SwiftfulSavingExample;
+			packageProductDependencies = (
+				027FB5302820CAFA009D7FE8 /* SwiftfulSaving */,
+			);
 			productName = SwiftfulSavingExample;
 			productReference = 027FB51E2820C80B009D7FE8 /* SwiftfulSavingExample.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +246,9 @@
 				Base,
 			);
 			mainGroup = 027FB5152820C80B009D7FE8;
+			packageReferences = (
+				027FB52F2820CAFA009D7FE8 /* XCRemoteSwiftPackageReference "SwiftfulSaving" */,
+			);
 			productRefGroup = 027FB51F2820C80B009D7FE8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +263,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027FB5462820DB9A009D7FE8 /* stringsvideo.mp4 in Resources */,
 				027FB5292820C80E009D7FE8 /* Preview Assets.xcassets in Resources */,
 				027FB5262820C80E009D7FE8 /* Assets.xcassets in Resources */,
+				027FB53F2820D73E009D7FE8 /* Birds-chirping-sound-effect.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +277,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0294193E282CAF38000F6B7E /* FMImageView.swift in Sources */,
+				02AFA5EF283ADAF800763DB1 /* FMImageStreamableView.swift in Sources */,
 				027FB5242820C80B009D7FE8 /* ContentView.swift in Sources */,
+				02AFA5E4283AD2D900763DB1 /* FMMP3View.swift in Sources */,
+				02AFA5E2283AD0A200763DB1 /* FMCodableView.swift in Sources */,
+				02AFA5EA283AD82700763DB1 /* UDExampleView.swift in Sources */,
+				0294193C282CAEF4000F6B7E /* FMServices.swift in Sources */,
+				02941936282CA72F000F6B7E /* CDExampleView.swift in Sources */,
+				02941938282CA739000F6B7E /* CDItem.swift in Sources */,
 				027FB5222820C80B009D7FE8 /* SwiftfulSavingExampleApp.swift in Sources */,
+				02AFA5E6283AD6EE00763DB1 /* FMMP4View.swift in Sources */,
+				0294193A282CAEC3000F6B7E /* CDServices.swift in Sources */,
+				02AFA5ED283AD84000763DB1 /* UDServices.swift in Sources */,
+				029419342826CF6C000F6B7E /* CDItemContainer.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +493,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		027FB52F2820CAFA009D7FE8 /* XCRemoteSwiftPackageReference "SwiftfulSaving" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftfulThinking/SwiftfulSaving.git";
+			requirement = {
+				branch = feature/core_data_updates;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		027FB5302820CAFA009D7FE8 /* SwiftfulSaving */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 027FB52F2820CAFA009D7FE8 /* XCRemoteSwiftPackageReference "SwiftfulSaving" */;
+			productName = SwiftfulSaving;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		029419322826CF6C000F6B7E /* CDItemContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				029419332826CF6C000F6B7E /* CDItemContainer.xcdatamodel */,
+			);
+			currentVersion = 029419332826CF6C000F6B7E /* CDItemContainer.xcdatamodel */;
+			path = CDItemContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 027FB5162820C80B009D7FE8 /* Project object */;
 }
